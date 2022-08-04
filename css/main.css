@@ -1,0 +1,27 @@
+body {
+    height: 100vh;
+    width: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+h1 {
+    background-color: rgb(130, 186, 106);
+    text-transform: uppercase;
+}
+.skill-list {
+    color: rgb(253, 195, 113);
+}
+input {
+    border-color: rgb(130, 186, 106);
+    border-width: 3px;
+    border-style: solid;
+}
+button {
+    border-color: rgb(130, 186, 106);
+    border-width: 3px;
+    border-style: solid;
+    background-color: white;
+    text-transform: uppercase;
+}
